@@ -9,5 +9,4 @@ Aprender a controlar versiones.
 CREANDO
 EDITANDO
 DEVORANDO
-=======
->>>>>>> e9d7c478d07d9a85487b9577f5c4fcf426e0b2ea
+
